@@ -17,6 +17,13 @@ Based on the files provided in the Resources folder, we will proceed with the fo
 3.	Create the Contacts DataFrame: Extract and organize data from the provided files to create a DataFrame representing contacts.
 4.	Create the Crowdfunding Database: Using the DataFrames created in the previous steps, establish a PostgreSQL database schema and upload the data into corresponding tables.
 
+### Data Base Schema
+<img src="Crowdfunding_ETL/CROWDFUNDING_TABLES.png"
+ alt="crowdfunding"
+ title="Optional title"
+style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 ### Result
 *1. Create the Category and Subcategory DataFrames:*
 After imported our dependencies and read the crowfunding.xlx file, we get the summary of each column and the datatype to ensure to proceed to the category and subcategory.
