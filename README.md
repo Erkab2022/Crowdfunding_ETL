@@ -22,7 +22,11 @@ Based on the files provided in the Resources folder, we will proceed with the fo
 
 
  ### PgAdmin4 Tables
-
+![Tables  Select from](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/37297f54-d170-478e-8870-ef9cedfff8b0)
+![campaign](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/5476f498-b226-40ea-9080-e6565aa67c72)
+![category](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/abc38112-809d-4a2a-a5dc-2d6dbe1ed4a4)
+![contacts](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/fc5cada4-8ddc-4194-8e0a-d915ced4470b)
+![subcategory](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/2a3211fb-68f9-4dd9-876d-bd0cb3e79429)
  
 
 
