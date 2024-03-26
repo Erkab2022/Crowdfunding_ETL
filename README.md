@@ -18,10 +18,8 @@ Based on the files provided in the Resources folder, we will proceed with the fo
 4.	Create the Crowdfunding Database: Using the DataFrames created in the previous steps, establish a PostgreSQL database schema and upload the data into corresponding tables.
 
 ### Data Base Schema
-<img src="Crowdfunding_ETL\CROWDFUNDING_TABLES.png"
- alt="Correlations"
- title="Optional title"
- style="display: inline-block; margin: 0 auto; max-width: 300px">
+![CROWDFUNDING_TABLES](https://github.com/Erkab2022/Crowdfunding_ETL/assets/152826034/8e19798f-7297-47e2-be05-ef48038c3d2e)
+
 
  ### PgAdmin4 Tables
 
